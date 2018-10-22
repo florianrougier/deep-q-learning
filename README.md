@@ -7,5 +7,7 @@ The goal was to implement a reinforcement learning algorithm powered by a deep n
 
 Rewards (positive or negative) are given based on a simple objective (go from the upper left side of the screen to the bottom right and vice versa) and through avoiding or not obstacles (which are dinamically drawn by the user).
 
-The final outputs are accessible via this link: https://github.com/florianrougier/deep-q-learning/tree/master/IA-%20Deep%20reinforcement%20learning%20example/videos
+The final outputs are accessible via this link: 
+
+https://github.com/florianrougier/deep-q-learning/tree/master/IA-%20Deep%20reinforcement%20learning%20example/videos
 
