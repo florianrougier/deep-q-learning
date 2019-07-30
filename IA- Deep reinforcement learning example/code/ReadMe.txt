@@ -1,11 +1,11 @@
 Self driving car
 
-Les librairies nécessaires à installer sont:
+Les librairies nÃ©cessaires Ã  installer sont:
 Pytorch
 Kivy
 
-L'installation d'Anaconda est recommandé (permet de gérer facilement les libraires pythons)
+L'installation d'Anaconda est recommandÃ© (permet de gÃ©rer facilement les libraires python)
 
-Pour l'installer sous W10, la procédure est décrite à l'adresse suivante:
+Pour l'installer sous W10, la procÃ©dure est dÃ©crite Ã  l'adresse suivante:
 
 https://www.superdatascience.com/pytorch/
